@@ -337,6 +337,11 @@ nav img {
     }
     /***********************************************/
 
+    /* when a nav link is clicked the section appears just below the navbar */
+    .segment {
+        scroll-margin-top: 6rem;
+    }
+
     .headline {
         display: flex;
         flex-direction: column;
